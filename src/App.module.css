@@ -1,0 +1,27 @@
+.calci{
+  border: 1px solid black;
+  width: 200px;
+  height: 500px;
+  margin: 50px;
+  margin-left: 95px;
+}
+.tittle{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: 50px;
+}
+.display{
+ display: flex;
+  justify-content: center;
+  align-items: center;  
+  width: 100%;
+  margin-bottom: 5px;
+}
+.btn{
+  border: 1px solid black;
+  margin: 5px;
+  width: 55px;
+  height: 50px;
+}
